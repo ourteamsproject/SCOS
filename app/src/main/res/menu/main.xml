@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.actionbartest.MainActivity" >
+
+    <item
+        android:id="@+id/orderlist"
+        android:title="已点菜品"/>
+    <item
+        android:id="@+id/chek"
+
+        android:title="查看订单"/>
+    <item
+        android:id="@+id/call"
+        android:title="呼叫服务"/>
+    <item
+        android:id="@+id/refreshing"
+        android:title="启动实时更新"/>
+
+</menu>
